@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1yfuhd.mon-saas.com/sitemap.xml
